@@ -38,7 +38,7 @@ Website đặt phòng khách sạn trực tuyến, gồm 2 phần:
 - Quản lý khách hàng
 - Quản lý nhân viên
 
-#### STAFF
+#### Nhân viên
 
 - Quản lý phòng
 - Quản lý loại phòng
